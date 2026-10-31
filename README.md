@@ -3,7 +3,7 @@
 An interactive dashboard that uses **official IMD daily rainfall data** to find India's monsoon droughts:
 which years failed, how much of the country was affected, and which states were hit hardest.
 
-**Live demo:** [Open the app](LIVE-LINK-HERE)
+**Live demo:** [Open the app](https://india-monsoon-drought.streamlit.app)
 
 ![State map 2002](charts/state_map_2002.png)
 
